@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Utkursraj
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning Full stack Development
-- 💞️ I’m looking to collaborate on web development Projects
-- 📫 How to reach me ...
+🔭 I’m currently working on Web Development.
+👯 I’m looking to collaborate on Frontend Projects.
+🌱 I’m currently learning DBMS.
 
 <!---
 Utkursraj/Utkursraj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
