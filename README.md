@@ -8,21 +8,26 @@
 
 ### 🛠️ Languages & Tools
 
-* **Frontend:** React.js, JavaScript (ES6+), EJS, HTML5, CSS3, Bootstrap
-* **Backend:** Node.js, Express.js
+* **Frontend:** React.js, **Tailwind CSS**, **Vite**, JavaScript (ES6+), HTML5, CSS3, Bootstrap
+* **Backend:** Node.js, Express.js, **JWT (Auth)**, RESTful APIs
 * **Database:** MongoDB (Mongoose), MySQL
-* **Tools:** Git, GitHub, RESTful APIs, Postman, Mapbox API, Cloudinary
+* **Tools:** Git, GitHub, Postman, Mapbox API, Cloudinary
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [Wanderlust (Airbnb Clone)](https://airbnbclone-dnwy.onrender.com)
+#### 1. [Personal Expense Tracker](https://expense-tracker-frontend-m3oi.onrender.com)
+**Full-stack financial management dashboard.**
+* **Tech:** React (Vite), Tailwind CSS, Node.js, Express, MongoDB.
+* **Features:** Secure JWT Authentication, Income/Expense tracking, Graphical Data Visualization, Excel Export, and Profile Management.
+
+#### 2. [Wanderlust (Airbnb Clone)](https://airbnbclone-dnwy.onrender.com)
 **Full-stack accommodation booking platform.**
 * **Tech:** MongoDB, Express, Node.js, EJS.
 * **Features:** Complete CRUD, Authentication (Passport.js), Mapbox Geocoding, Image Uploads.
 
-#### 2. [Zerodha Landing Page](https://zerodhalandingpage.onrender.com/)
+#### 3. [Zerodha Landing Page](https://zerodhalandingpage.onrender.com/)
 **High-fidelity frontend clone of a trading platform.**
 * **Tech:** React.js.
 * **Focus:** Component-based architecture and responsive UI design.
