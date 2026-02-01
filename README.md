@@ -37,11 +37,9 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=utkursraj&show_icons=true&theme=radical&rank_icon=github&border_radius=10" alt="Utkurs Raj's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkursraj&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</p>
+![Utkurs Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkursraj&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkursraj&layout=compact&theme=radical&border_radius=10)
 
 ---
 
