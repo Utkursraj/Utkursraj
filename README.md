@@ -48,7 +48,7 @@
 ### 📫 Let's Connect!
 
 * **Email:** [rajutkurs@gmail.com](mailto:rajutkurs@gmail.com)
-* **Portfolio:** [Your Portfolio Link Here]
+* **Portfolio:** [https://utkurs-portfolio.onrender.com]
 * **Collaboration:** Open to end-to-end MERN stack projects and SDE opportunities.
 
 ---
