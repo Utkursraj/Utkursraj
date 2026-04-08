@@ -1,52 +1,137 @@
-# 🚀 Hi there, I'm Utkurs Raj! 👋
+## 🚀 Hi there, I'm Utkurs Raj! 👋  
 
-### 👨‍💻 Full Stack Developer | ECE Graduate (2024)
+👨‍💻 **Full Stack Developer | ECE Graduate (2024)**  
+🔗 **GitHub:** @Utkursraj  
 
-> **Pro-active Electronics & Communication Engineering graduate** with a passion for building scalable web applications. I specialize in the **MERN Stack**, creating secure, data-driven applications with a focus on clean code and efficient backends.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?logo=json-web-tokens&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) |
-| **Tools** | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) ![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white) |
+💡 I build **production-ready full-stack applications** with a strong focus on **backend systems, authentication, payments, and scalable architecture**.
 
 ---
 
-### 🚀 Featured Projects
+### 🧠 About Me  
 
-#### 📈 [Personal Expense Tracker](https://expense-tracker-frontend-m3oi.onrender.com)
-*Full-stack financial dashboard with secure JWT Auth.*
-* **Tech:** React, Node.js, Express, MongoDB.
-* **Key Stats:** 📊 Real-time data visualization | 📥 Excel Export | 🔐 Secure Profile Mgmt.
+Pro-active Electronics & Communication Engineering graduate with hands-on experience in building **secure, scalable, and high-performance web applications**.  
 
-#### 🏡 [Wanderlust (Airbnb Clone)](https://airbnbclone-dnwy.onrender.com)
-*Full-stack accommodation booking platform.*
-* **Tech:** MongoDB, Express, Node.js, EJS.
-* **Key Stats:** 🗺️ Mapbox Geocoding | 🖼️ Image Uploads | 🛠️ Full CRUD.
-
-#### 📊 [Zerodha Landing Page](https://zerodhalandingpage.onrender.com/)
-*High-fidelity frontend clone of a trading platform.*
-* **Focus:** Pixel-perfect responsive design and component-based architecture.
+I specialize in:  
+- 🔐 Authentication systems (**JWT, Passport.js, RBAC**)  
+- 💳 Payment integrations (**Stripe**)  
+- ⚙️ Backend architecture (**REST APIs, MVC pattern**)  
+- ☁️ Cloud integrations (**Cloudinary, Mapbox, MongoDB Atlas**)  
 
 ---
 
-### 📊 GitHub Stats
+### 🛠️ Tech Stack  
 
-![Utkurs Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=utkursraj&show_icons=true&theme=radical&rank_icon=github&border_radius=10)
+**Frontend**  
+React (Vite) • Tailwind CSS v4 • JavaScript • TypeScript • SCSS • Bootstrap  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=utkursraj&layout=compact&theme=radical&border_radius=10)
+**Backend**  
+Node.js • Express.js • REST APIs • MVC Architecture • JWT • Passport.js  
+
+**Database & Cloud**  
+MongoDB • Mongoose • MongoDB Atlas  
+
+**Integrations**  
+Stripe • Cloudinary • Mapbox • Multer  
+
+**Tools & Testing**  
+Git • Postman • ESLint • Babel • Jest • React Testing Library  
+
+**Deployment**  
+Render  
 
 ---
 
-### 📫 Let's Connect!
+## 🚀 Featured Projects  
 
-* **Email:** [rajutkurs@gmail.com](mailto:rajutkurs@gmail.com)
-* **Portfolio:** [https://utkurs-portfolio.onrender.com]
-* **Collaboration:** Open to end-to-end MERN stack projects and SDE opportunities.
+### 📈 Personal Expense Tracker (MERN)  
+Full-stack financial management system  
+
+**Key Highlights:**  
+- 🔐 JWT-based authentication (secure login/register)  
+- 📊 Dynamic dashboard with real-time expense tracking  
+- ⚙️ RESTful API for full CRUD operations  
+- 🗄️ MongoDB + Mongoose schema design  
+- ☁️ Deployed on Render  
 
 ---
+
+### 🌐 Portfolio (React + Vite + Tailwind v4)  
+High-performance developer portfolio  
+
+**Key Highlights:**  
+- ⚡ Built with Vite for ultra-fast performance  
+- 🎨 Tailwind CSS v4 (modern CSS-first architecture)  
+- 📱 Fully responsive (mobile-first design)  
+- 🧩 Modular and scalable component structure  
+- 🔗 Integrated real-world project showcases  
+
+---
+
+### 🧠 Resumind (TypeScript + React Router v7)  
+Production-ready full-stack template  
+
+**Key Highlights:**  
+- 🔷 Built with TypeScript  
+- 🔀 Advanced routing with React Router v7  
+- 🏗️ Scalable architecture for real-world apps  
+
+---
+
+### 💳 Stripe Payment Integration (Full Stack)  
+Production-ready payment system  
+
+**Key Highlights:**  
+- 💳 Secure Stripe payment workflows  
+- 🔐 Backend validation & transaction handling  
+- 🌐 Deployed on Render  
+- ⚙️ React + Node.js + Express  
+
+---
+
+### 🏡 Wanderlust – Airbnb Clone (MERN + MVC)  
+Full-stack travel marketplace  
+
+**Key Highlights:**  
+- 🛠️ Full CRUD operations for listings & reviews  
+- 🔐 Authentication using Passport.js  
+- 🗺️ Mapbox geocoding + interactive maps  
+- ☁️ Cloudinary for image uploads  
+- 📦 Multer for file handling  
+- 🧱 MVC architecture implementation  
+- 🎨 EJS + Bootstrap 5 (SSR + responsive UI)  
+- 🗄️ MongoDB Atlas for cloud data storage  
+
+---
+
+### 📊 Zerodha Landing Page Clone (React 19)  
+High-fidelity frontend architecture project  
+
+**Key Highlights:**  
+- 🧩 Modular component-based architecture  
+- 🔀 React Router v7 + custom 404 page  
+- ⚙️ Babel + ESLint for code quality  
+- 🧪 Tested using Jest & React Testing Library  
+- ⚡ Optimized UI with modern React hooks  
+
+---
+
+## 🏆 Achievements  
+- 🦈 **Pull Shark** (GitHub Achievement)  
+
+---
+
+## 📫 Let's Connect  
+
+- 📧 Email: **rajutkurs@gmail.com**  
+- 🌐 Portfolio: https://utkurs-portfolio.onrender.com  
+- 💼 Open to: **SDE Roles | Backend Roles | Full Stack Opportunities**  
+
+---
+
+## ⚡ Developer Focus  
+
+I don’t just build projects — I build:  
+- 🔐 Secure systems (Auth, validation, data integrity)  
+- 💳 Payment-enabled applications  
+- ⚙️ Scalable backend architectures  
+- 📊 Data-driven dashboards with real-world use cases  
