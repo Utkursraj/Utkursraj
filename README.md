@@ -1,137 +1,140 @@
-## 🚀 Hi there, I'm Utkurs Raj! 👋  
+# Hey, I'm Utkurs Raj 👋
 
-👨‍💻 **Full Stack Developer | ECE Graduate (2024)**  
-🔗 **GitHub:** @Utkursraj  
+### Full Stack Developer (MERN) • Backend & Systems-Focused Engineer • ECE 2024 Graduate
 
-💡 I build **production-ready full-stack applications** with a strong focus on **backend systems, authentication, payments, and scalable architecture**.
+I build secure, scalable, and production-ready applications with a strong focus on backend systems, API architecture, async processing, authentication, and performance optimization.
 
----
+With a background in Electronics & Communication Engineering, I approach software development from a systems perspective — emphasizing reliability, modular architecture, and clean engineering practices.
 
-### 🧠 About Me  
-
-Pro-active Electronics & Communication Engineering graduate with hands-on experience in building **secure, scalable, and high-performance web applications**.  
-
-I specialize in:  
-- 🔐 Authentication systems (**JWT, Passport.js, RBAC**)  
-- 💳 Payment integrations (**Stripe**)  
-- ⚙️ Backend architecture (**REST APIs, MVC pattern**)  
-- ☁️ Cloud integrations (**Cloudinary, Mapbox, MongoDB Atlas**)  
+I enjoy building backend-heavy applications involving distributed workflows, AI-powered systems, payment integrations, and scalable full-stack architectures.
 
 ---
 
-### 🛠️ Tech Stack  
+## 🚀 What I Work On
 
-**Frontend**  
-React (Vite) • Tailwind CSS v4 • JavaScript • TypeScript • SCSS • Bootstrap  
-
-**Backend**  
-Node.js • Express.js • REST APIs • MVC Architecture • JWT • Passport.js  
-
-**Database & Cloud**  
-MongoDB • Mongoose • MongoDB Atlas  
-
-**Integrations**  
-Stripe • Cloudinary • Mapbox • Multer  
-
-**Tools & Testing**  
-Git • Postman • ESLint • Babel • Jest • React Testing Library  
-
-**Deployment**  
-Render  
+* Scalable Backend Systems
+* RESTful APIs & Middleware Architecture
+* JWT Authentication & RBAC
+* Queue-Based Async Processing
+* MongoDB Aggregation Pipelines
+* React & Tailwind Frontend Development
+* Payment Integration (Stripe)
+* Dockerized Full-Stack Applications
+* Performance Optimization & State Management
+* AI-Powered Recommendation Workflows
 
 ---
 
-## 🚀 Featured Projects  
+## 🏆 Featured Projects
 
-### 📈 Personal Expense Tracker (MERN)  
-Full-stack financial management system  
+### 🔹 SHL Assessment Recommender
 
-**Key Highlights:**  
-- 🔐 JWT-based authentication (secure login/register)  
-- 📊 Dynamic dashboard with real-time expense tracking  
-- ⚙️ RESTful API for full CRUD operations  
-- 🗄️ MongoDB + Mongoose schema design  
-- ☁️ Deployed on Render  
+Conversational recommendation engine built with FastAPI, BM25 retrieval, deterministic guardrails, schema validation, and catalog-grounded recommendations.
+
+**Tech Stack:** Python • FastAPI • BM25 • JSON Schema Validation • Retrieval Systems
 
 ---
 
-### 🌐 Portfolio (React + Vite + Tailwind v4)  
-High-performance developer portfolio  
+### 🔹 AI Task Processing Platform
 
-**Key Highlights:**  
-- ⚡ Built with Vite for ultra-fast performance  
-- 🎨 Tailwind CSS v4 (modern CSS-first architecture)  
-- 📱 Fully responsive (mobile-first design)  
-- 🧩 Modular and scalable component structure  
-- 🔗 Integrated real-world project showcases  
+Distributed task-processing platform using Redis (BullMQ), Docker, React, Node.js, and MongoDB for scalable asynchronous workflows.
 
----
+#### Key Features
 
-### 🧠 Resumind (TypeScript + React Router v7)  
-Production-ready full-stack template  
+* Queue-Based Processing
+* Background Workers
+* Async Job Execution
+* Dockerized Services
+* Scalable Backend Workflow Design
 
-**Key Highlights:**  
-- 🔷 Built with TypeScript  
-- 🔀 Advanced routing with React Router v7  
-- 🏗️ Scalable architecture for real-world apps  
+**Tech Stack:** React.js • Node.js • Express.js • Redis • BullMQ • Docker • MongoDB
 
 ---
 
-### 💳 Stripe Payment Integration (Full Stack)  
-Production-ready payment system  
+### 🔹 Financial Analytics Dashboard
 
-**Key Highlights:**  
-- 💳 Secure Stripe payment workflows  
-- 🔐 Backend validation & transaction handling  
-- 🌐 Deployed on Render  
-- ⚙️ React + Node.js + Express  
+Production-style MERN application with JWT authentication, dynamic analytics visualizations, aggregation-powered APIs, and Excel export functionality.
 
----
+#### Key Features
 
-### 🏡 Wanderlust – Airbnb Clone (MERN + MVC)  
-Full-stack travel marketplace  
+* Secure Authentication
+* Analytics Dashboard
+* Aggregation Pipelines
+* Export Functionality
+* Responsive UI
 
-**Key Highlights:**  
-- 🛠️ Full CRUD operations for listings & reviews  
-- 🔐 Authentication using Passport.js  
-- 🗺️ Mapbox geocoding + interactive maps  
-- ☁️ Cloudinary for image uploads  
-- 📦 Multer for file handling  
-- 🧱 MVC architecture implementation  
-- 🎨 EJS + Bootstrap 5 (SSR + responsive UI)  
-- 🗄️ MongoDB Atlas for cloud data storage  
+**Tech Stack:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
 ---
 
-### 📊 Zerodha Landing Page Clone (React 19)  
-High-fidelity frontend architecture project  
+### 🔹 Distributed Accommodation Platform
 
-**Key Highlights:**  
-- 🧩 Modular component-based architecture  
-- 🔀 React Router v7 + custom 404 page  
-- ⚙️ Babel + ESLint for code quality  
-- 🧪 Tested using Jest & React Testing Library  
-- ⚡ Optimized UI with modern React hooks  
+Full-stack rental marketplace featuring Mapbox integration, secure session handling, modular backend architecture, and scalable routing.
 
----
+#### Key Features
 
-## 🏆 Achievements  
-- 🦈 **Pull Shark** (GitHub Achievement)  
+* Property Listings
+* Authentication & Authorization
+* Geolocation Integration
+* Review System
+* Secure Sessions
 
----
-
-## 📫 Let's Connect  
-
-- 📧 Email: **rajutkurs@gmail.com**  
-- 🌐 Portfolio: https://utkurs-portfolio.onrender.com  
-- 💼 Open to: **SDE Roles | Backend Roles | Full Stack Opportunities**  
+**Tech Stack:** MongoDB • Express.js • React.js • Node.js • Mapbox
 
 ---
 
-## ⚡ Developer Focus  
+## 💼 Experience
 
-I don’t just build projects — I build:  
-- 🔐 Secure systems (Auth, validation, data integrity)  
-- 💳 Payment-enabled applications  
-- ⚙️ Scalable backend architectures  
-- 📊 Data-driven dashboards with real-world use cases  
+### Salesforce Intern — Smartintern
+
+Worked on enterprise CRM automation using Apex, improving workflow logic, backend operations, and data handling.
+
+### Infrastructure Analyst — East Central Railway
+
+Analyzed large-scale network infrastructure supporting high-volume public operations with a focus on reliability and operational performance.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+JavaScript (ES6+) • Python • C++ • SQL
+
+### Frontend
+
+React.js • Tailwind CSS • HTML5 • CSS3 • SCSS • Vite
+
+### Backend
+
+Node.js • Express.js • FastAPI
+
+### Database
+
+MongoDB • SQL
+
+### Tools & Infrastructure
+
+Redis • BullMQ • Docker • Git • GitHub • Postman • Stripe • Mapbox
+
+---
+
+## 📈 Currently Exploring
+
+* Distributed System Design
+* Event-Driven Architectures
+* Backend Performance Optimization
+* AI-Powered Applications
+* Cloud & DevOps Workflows
+* Scalable Infrastructure Patterns
+
+---
+
+## 📫 Connect With Me
+
+* LinkedIn: linkedin.com/in/utkurs-raj
+* GitHub: github.com/Utkursraj
+
+---
+
+⭐ Always building, learning, and improving engineering depth.
