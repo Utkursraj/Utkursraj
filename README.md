@@ -1,4 +1,14 @@
+<div align="center">
+
 # Hey, I'm Utkurs Raj 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer+(MERN);Backend+%26+Systems-Focused+Engineer;Building+Scalable+%26+Production-Ready+Applications;Async+Processing+%7C+AI+Systems+%7C+Secure+Architectures" alt="Typing SVG" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Utkursraj&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,docker,python,fastapi,git,github,tailwind" />
+
+</di
 
 ### Full Stack Developer (MERN) • Backend & Systems-Focused Engineer • ECE 2024 Graduate
 
