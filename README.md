@@ -8,7 +8,7 @@
 
 <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,redis,docker,python,fastapi,git,github,tailwind" />
 
-</di
+</div>
 
 ### Full Stack Developer (MERN) • Backend & Systems-Focused Engineer • ECE 2024 Graduate
 
